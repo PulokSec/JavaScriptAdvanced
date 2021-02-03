@@ -8,7 +8,7 @@ let name = NaN;
 //if variable is (undefined && null && NaN) it will be declared as false otherwise true
 let name = {};
 let name = [];
-//empty array & object is true cz they assigned their memory spaces 
+//empty array & object is true cz they assigned their memory spaces  
 if(age){
     console.log("true");
 }
